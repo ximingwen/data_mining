@@ -1,0 +1,280 @@
+abreviation
+result for levenshtein:
+top0is :abbreviation and the levenshtein_distance is 1
+top1is :abbreviatio and the levenshtein_distance is 2
+top2is :abbreviatione and the levenshtein_distance is 2
+top3is :abbreviationi and the levenshtein_distance is 2
+top4is :abbreviations and the levenshtein_distance is 2
+top5is :abreviaron and the levenshtein_distance is 2
+top6is :abreviativa and the levenshtein_distance is 2
+top7is :abreviativo and the levenshtein_distance is 2
+top8is :abreviativos and the levenshtein_distance is 2
+top9is :adbreviatio and the levenshtein_distance is 2
+result for 2_gram:
+top0is :abbreviation and the Jaccard is 0.09090909090909094
+top1is :abbreviatione and the Jaccard is 0.16666666666666663
+top2is :abbreviationi and the Jaccard is 0.16666666666666663
+top3is :abbreviations and the Jaccard is 0.16666666666666663
+top4is :abbreviatio and the Jaccard is 0.18181818181818177
+top5is :abbreviationem and the Jaccard is 0.23076923076923073
+top6is :abbreviationes and the Jaccard is 0.23076923076923073
+top7is :abbreviationis and the Jaccard is 0.23076923076923073
+top8is :abbreviationum and the Jaccard is 0.23076923076923073
+top9is :abbreviati and the Jaccard is 0.2727272727272727
+result for 3_gram:
+top0is :abbreviation and the Jaccard is 0.2727272727272727
+top1is :abbreviatione and the Jaccard is 0.33333333333333337
+top2is :abbreviationi and the Jaccard is 0.33333333333333337
+top3is :abbreviations and the Jaccard is 0.33333333333333337
+top4is :adbreviatione and the Jaccard is 0.33333333333333337
+top5is :adbreviationi and the Jaccard is 0.33333333333333337
+top6is :abbreviatio and the Jaccard is 0.36363636363636365
+top7is :abreviativa and the Jaccard is 0.36363636363636365
+top8is :abreviativo and the Jaccard is 0.36363636363636365
+top9is :adbreviatio and the Jaccard is 0.36363636363636365
+result for 4_gram:
+top0is :abbreviation and the Jaccard is 0.30000000000000004
+top1is :abbreviatione and the Jaccard is 0.36363636363636365
+top2is :abbreviationi and the Jaccard is 0.36363636363636365
+top3is :abbreviations and the Jaccard is 0.36363636363636365
+top4is :adbreviatione and the Jaccard is 0.36363636363636365
+top5is :adbreviationi and the Jaccard is 0.36363636363636365
+top6is :abbreviatio and the Jaccard is 0.4
+top7is :abreviativa and the Jaccard is 0.4
+top8is :abreviativo and the Jaccard is 0.4
+top9is :adbreviatio and the Jaccard is 0.4
+result for 5_gram:
+top0is :abbreviation and the Jaccard is 0.33333333333333337
+top1is :abbreviatione and the Jaccard is 0.4
+top2is :abbreviationi and the Jaccard is 0.4
+top3is :abbreviations and the Jaccard is 0.4
+top4is :adbreviatione and the Jaccard is 0.4
+top5is :adbreviationi and the Jaccard is 0.4
+top6is :abbreviatio and the Jaccard is 0.4444444444444444
+top7is :abreviativa and the Jaccard is 0.4444444444444444
+top8is :abreviativo and the Jaccard is 0.4444444444444444
+top9is :adbreviatio and the Jaccard is 0.4444444444444444
+abstrictiveness
+result for levenshtein:
+top0is :abstractiveness and the levenshtein_distance is 1
+top1is :absorptiveness and the levenshtein_distance is 3
+top2is :attractiveness and the levenshtein_distance is 3
+top3is :abortiveness and the levenshtein_distance is 4
+top4is :abstersiveness and the levenshtein_distance is 4
+top5is :abstractedness and the levenshtein_distance is 4
+top6is :abstractiones and the levenshtein_distance is 4
+top7is :abstractivement and the levenshtein_distance is 4
+top8is :abstractness and the levenshtein_distance is 4
+top9is :abstrictions and the levenshtein_distance is 4
+result for 2_gram:
+top0is :abstractiveness and the Jaccard is 0.25
+top1is :astrictives and the Jaccard is 0.4
+top2is :abstivesen and the Jaccard is 0.4666666666666667
+top3is :abstivesse and the Jaccard is 0.4666666666666667
+top4is :activeness and the Jaccard is 0.4666666666666667
+top5is :astrictive and the Jaccard is 0.4666666666666667
+top6is :addictiveness and the Jaccard is 0.47058823529411764
+top7is :absorptiveness and the Jaccard is 0.5
+top8is :abstersiveness and the Jaccard is 0.5
+top9is :abstiven and the Jaccard is 0.5
+result for 3_gram:
+top0is :abstractiveness and the Jaccard is 0.375
+top1is :activeness and the Jaccard is 0.5
+top2is :addictiveness and the Jaccard is 0.5
+top3is :astrictive and the Jaccard is 0.5
+top4is :abstricting and the Jaccard is 0.5333333333333333
+top5is :abstriction and the Jaccard is 0.5333333333333333
+top6is :astrictives and the Jaccard is 0.5333333333333333
+top7is :abstrict and the Jaccard is 0.5384615384615384
+top8is :abstrictions and the Jaccard is 0.5625
+top9is :activenesses and the Jaccard is 0.5625
+result for 4_gram:
+top0is :abstractiveness and the Jaccard is 0.5
+top1is :addictiveness and the Jaccard is 0.5333333333333333
+top2is :activeness and the Jaccard is 0.5384615384615384
+top3is :astrictive and the Jaccard is 0.5384615384615384
+top4is :abstricting and the Jaccard is 0.5714285714285714
+top5is :abstriction and the Jaccard is 0.5714285714285714
+top6is :astrictives and the Jaccard is 0.5714285714285714
+top7is :abstrict and the Jaccard is 0.5833333333333333
+top8is :abstrictions and the Jaccard is 0.6
+top9is :activenesses and the Jaccard is 0.6
+result for 5_gram:
+top0is :addictiveness and the Jaccard is 0.5714285714285714
+top1is :activeness and the Jaccard is 0.5833333333333333
+top2is :astrictive and the Jaccard is 0.5833333333333333
+top3is :abstricting and the Jaccard is 0.6153846153846154
+top4is :abstriction and the Jaccard is 0.6153846153846154
+top5is :astrictives and the Jaccard is 0.6153846153846154
+top6is :abstractiveness and the Jaccard is 0.625
+top7is :abstrict and the Jaccard is 0.6363636363636364
+top8is :abstrictions and the Jaccard is 0.6428571428571428
+top9is :activenesses and the Jaccard is 0.6428571428571428
+accanthopterigious
+result for levenshtein:
+top0is :acanthopterygious and the levenshtein_distance is 2
+top1is :acanthopterous and the levenshtein_distance is 4
+top2is :acanthopterygians and the levenshtein_distance is 4
+top3is :acanthopterygian and the levenshtein_distance is 5
+top4is :acanthopterygii and the levenshtein_distance is 5
+top5is :acanthophorous and the levenshtein_distance is 6
+top6is :acanthopodious and the levenshtein_distance is 6
+top7is :acanthopterans and the levenshtein_distance is 6
+top8is :acanthopteri and the levenshtein_distance is 6
+top9is :acanthocarpous and the levenshtein_distance is 7
+result for 2_gram:
+top0is :acanthopterygious and the Jaccard is 0.26315789473684215
+top1is :acanthopterous and the Jaccard is 0.33333333333333337
+top2is :acanthopteri and the Jaccard is 0.3529411764705882
+top3is :acanthopterygii and the Jaccard is 0.44999999999999996
+top4is :acanthopteran and the Jaccard is 0.4736842105263158
+top5is :acanthopterygian and the Jaccard is 0.47619047619047616
+top6is :acanthopodious and the Jaccard is 0.5
+top7is :acanthopterans and the Jaccard is 0.5
+top8is :acanthopterygians and the Jaccard is 0.5
+top9is :acanthopt and the Jaccard is 0.5294117647058824
+result for 3_gram:
+top0is :acanthopterygious and the Jaccard is 0.44999999999999996
+top1is :acanthopteri and the Jaccard is 0.47058823529411764
+top2is :acanthopterous and the Jaccard is 0.5263157894736843
+top3is :acanthopteran and the Jaccard is 0.5789473684210527
+top4is :acanthopterans and the Jaccard is 0.6
+top5is :acanthopterygii and the Jaccard is 0.6190476190476191
+top6is :acanthopterygian and the Jaccard is 0.6363636363636364
+top7is :acanthopt and the Jaccard is 0.6470588235294117
+top8is :acanthopterygians and the Jaccard is 0.6521739130434783
+top9is :acanthopodious and the Jaccard is 0.6666666666666667
+result for 4_gram:
+top0is :acanthopteri and the Jaccard is 0.5
+top1is :acanthopterygious and the Jaccard is 0.55
+top2is :acanthopteran and the Jaccard is 0.6111111111111112
+top3is :acanthopterans and the Jaccard is 0.631578947368421
+top4is :acanthopterous and the Jaccard is 0.631578947368421
+top5is :acanthopterygii and the Jaccard is 0.65
+top6is :acanthopterygian and the Jaccard is 0.6666666666666667
+top7is :acanthopterygians and the Jaccard is 0.6818181818181819
+top8is :acanthopt and the Jaccard is 0.6875
+top9is :acanthopts and the Jaccard is 0.7058823529411764
+result for 5_gram:
+top0is :acanthopteri and the Jaccard is 0.5333333333333333
+top1is :acanthopteran and the Jaccard is 0.6470588235294117
+top2is :acanthopterygious and the Jaccard is 0.65
+top3is :acanthopterans and the Jaccard is 0.6666666666666667
+top4is :acanthopterous and the Jaccard is 0.6666666666666667
+top5is :acanthopterygii and the Jaccard is 0.6842105263157895
+top6is :acanthopterygian and the Jaccard is 0.7
+top7is :acanthopterygians and the Jaccard is 0.7142857142857143
+top8is :acanthopt and the Jaccard is 0.7333333333333334
+top9is :acanthopts and the Jaccard is 0.75
+artifitial inteligwnse
+result for levenshtein:
+top0is :artificial intelligence and the levenshtein_distance is 4
+top1is :artificial intelligences and the levenshtein_distance is 5
+top2is :artificial abortions and the levenshtein_distance is 9
+top3is :artificial horizons and the levenshtein_distance is 9
+top4is :artificial insemination and the levenshtein_distance is 9
+top5is :artificial life and the levenshtein_distance is 9
+top6is :artificial persons and the levenshtein_distance is 9
+top7is :artificialities and the levenshtein_distance is 9
+top8is :adaptive intelligence and the levenshtein_distance is 10
+top9is :artificial abortion and the levenshtein_distance is 10
+result for 2_gram:
+top0is :artificial intelligence and the Jaccard is 0.4444444444444444
+top1is :artificial intelligences and the Jaccard is 0.4642857142857143
+top2is :artificial insemination and the Jaccard is 0.6
+top3is :artificiality and the Jaccard is 0.6086956521739131
+top4is :artificiali and the Jaccard is 0.6363636363636364
+top5is :artigliante and the Jaccard is 0.6363636363636364
+top6is :artificial life and the Jaccard is 0.64
+top7is :artificialities and the Jaccard is 0.64
+top8is :artificializing and the Jaccard is 0.64
+top9is :artificialmente and the Jaccard is 0.64
+result for 3_gram:
+top0is :artificial intelligence and the Jaccard is 0.5862068965517242
+top1is :artificial intelligences and the Jaccard is 0.6
+top2is :artificial insemination and the Jaccard is 0.71875
+top3is :artificial art and the Jaccard is 0.7692307692307692
+top4is :artificial anus and the Jaccard is 0.7777777777777778
+top5is :artificial life and the Jaccard is 0.7777777777777778
+top6is :artificial turf and the Jaccard is 0.7777777777777778
+top7is :artificialities and the Jaccard is 0.7777777777777778
+top8is :artificialmente and the Jaccard is 0.7777777777777778
+top9is :artificial and the Jaccard is 0.782608695652174
+result for 4_gram:
+top0is :artificial intelligence and the Jaccard is 0.7
+top1is :artificial intelligences and the Jaccard is 0.7096774193548387
+top2is :artificial insemination and the Jaccard is 0.8181818181818181
+top3is :artificial art and the Jaccard is 0.8461538461538461
+top4is :artificial anus and the Jaccard is 0.8518518518518519
+top5is :artificial life and the Jaccard is 0.8518518518518519
+top6is :artificial turf and the Jaccard is 0.8518518518518519
+top7is :artifice and the Jaccard is 0.8571428571428572
+top8is :artifici and the Jaccard is 0.8571428571428572
+top9is :artifiko and the Jaccard is 0.8571428571428572
+result for 5_gram:
+top0is :artificial intelligence and the Jaccard is 0.7666666666666666
+top1is :artificial intelligences and the Jaccard is 0.7741935483870968
+top2is :artificial insemination and the Jaccard is 0.8787878787878788
+top3is :artifice and the Jaccard is 0.9
+top4is :artifici and the Jaccard is 0.9
+top5is :artifiko and the Jaccard is 0.9
+top6is :artifizi and the Jaccard is 0.9
+top7is :artifical and the Jaccard is 0.9047619047619048
+top8is :artificem and the Jaccard is 0.9047619047619048
+top9is :artificer and the Jaccard is 0.9047619047619048
+agglumetation
+result for levenshtein:
+top0is :agglomeration and the levenshtein_distance is 2
+top1is :agglomerations and the levenshtein_distance is 3
+top2is :agglomeratioun and the levenshtein_distance is 3
+top3is :agglutination and the levenshtein_distance is 3
+top4is :argumentation and the levenshtein_distance is 3
+top5is :acclimatation and the levenshtein_distance is 4
+top6is :aggeneration and the levenshtein_distance is 4
+top7is :aggeration and the levenshtein_distance is 4
+top8is :agglomeraatio and the levenshtein_distance is 4
+top9is :agglomerati and the levenshtein_distance is 4
+result for 2_gram:
+top0is :agglomeration and the Jaccard is 0.5
+top1is :agglutination and the Jaccard is 0.5
+top2is :agglomerations and the Jaccard is 0.5294117647058824
+top3is :agglutinatarum and the Jaccard is 0.5294117647058824
+top4is :agglutinations and the Jaccard is 0.5294117647058824
+top5is :agglutinata and the Jaccard is 0.5333333333333333
+top6is :agitationum and the Jaccard is 0.5333333333333333
+top7is :agglomerationen and the Jaccard is 0.5555555555555556
+top8is :agglutinatae and the Jaccard is 0.5625
+top9is :agglutinatam and the Jaccard is 0.5625
+result for 3_gram:
+top0is :agglutination and the Jaccard is 0.625
+top1is :arietation and the Jaccard is 0.6428571428571428
+top2is :agglutinations and the Jaccard is 0.6470588235294117
+top3is :arietatione and the Jaccard is 0.6666666666666667
+top4is :arietationi and the Jaccard is 0.6666666666666667
+top5is :arietations and the Jaccard is 0.6666666666666667
+top6is :arietationem and the Jaccard is 0.6875
+top7is :arietationes and the Jaccard is 0.6875
+top8is :arietationis and the Jaccard is 0.6875
+top9is :arietationum and the Jaccard is 0.6875
+result for 4_gram:
+top0is :arietation and the Jaccard is 0.6923076923076923
+top1is :arietatione and the Jaccard is 0.7142857142857143
+top2is :arietationi and the Jaccard is 0.7142857142857143
+top3is :arietations and the Jaccard is 0.7142857142857143
+top4is :arietationem and the Jaccard is 0.7333333333333334
+top5is :arietationes and the Jaccard is 0.7333333333333334
+top6is :arietationis and the Jaccard is 0.7333333333333334
+top7is :arietationum and the Jaccard is 0.7333333333333334
+top8is :agglutination and the Jaccard is 0.75
+top9is :agglutinations and the Jaccard is 0.7647058823529411
+result for 5_gram:
+top0is :arietation and the Jaccard is 0.75
+top1is :arietatione and the Jaccard is 0.7692307692307692
+top2is :arietationi and the Jaccard is 0.7692307692307692
+top3is :arietations and the Jaccard is 0.7692307692307692
+top4is :arietationem and the Jaccard is 0.7857142857142857
+top5is :arietationes and the Jaccard is 0.7857142857142857
+top6is :arietationis and the Jaccard is 0.7857142857142857
+top7is :arietationum and the Jaccard is 0.7857142857142857
+top8is :arietationibus and the Jaccard is 0.8125
+top9is :agitation and the Jaccard is 0.8333333333333334

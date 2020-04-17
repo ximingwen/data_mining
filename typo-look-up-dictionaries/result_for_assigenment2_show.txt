@@ -1,0 +1,280 @@
+abreviation
+result for levenshtein:
+abbreviation
+abbreviatio
+abbreviatione
+abbreviationi
+abbreviations
+abreviaron
+abreviativa
+abreviativo
+abreviativos
+adbreviatio
+result for 2_gram:
+abbreviation
+abbreviatione
+abbreviationi
+abbreviations
+abbreviatio
+abbreviationem
+abbreviationes
+abbreviationis
+abbreviationum
+abbreviati
+result for 3_gram:
+abbreviation
+abbreviatione
+abbreviationi
+abbreviations
+adbreviatione
+adbreviationi
+abbreviatio
+abreviativa
+abreviativo
+adbreviatio
+result for 4_gram:
+abbreviation
+abbreviatione
+abbreviationi
+abbreviations
+adbreviatione
+adbreviationi
+abbreviatio
+abreviativa
+abreviativo
+adbreviatio
+result for 5_gram:
+abbreviation
+abbreviatione
+abbreviationi
+abbreviations
+adbreviatione
+adbreviationi
+abbreviatio
+abreviativa
+abreviativo
+adbreviatio
+abstrictiveness
+result for levenshtein:
+abstractiveness
+absorptiveness
+attractiveness
+abortiveness
+abstersiveness
+abstractedness
+abstractiones
+abstractivement
+abstractness
+abstrictions
+result for 2_gram:
+abstractiveness
+astrictives
+abstivesen
+abstivesse
+activeness
+astrictive
+addictiveness
+absorptiveness
+abstersiveness
+abstiven
+result for 3_gram:
+abstractiveness
+activeness
+addictiveness
+astrictive
+abstricting
+abstriction
+astrictives
+abstrict
+abstrictions
+activenesses
+result for 4_gram:
+abstractiveness
+addictiveness
+activeness
+astrictive
+abstricting
+abstriction
+astrictives
+abstrict
+abstrictions
+activenesses
+result for 5_gram:
+addictiveness
+activeness
+astrictive
+abstricting
+abstriction
+astrictives
+abstractiveness
+abstrict
+abstrictions
+activenesses
+accanthopterigious
+result for levenshtein:
+acanthopterygious
+acanthopterous
+acanthopterygians
+acanthopterygian
+acanthopterygii
+acanthophorous
+acanthopodious
+acanthopterans
+acanthopteri
+acanthocarpous
+result for 2_gram:
+acanthopterygious
+acanthopterous
+acanthopteri
+acanthopterygii
+acanthopteran
+acanthopterygian
+acanthopodious
+acanthopterans
+acanthopterygians
+acanthopt
+result for 3_gram:
+acanthopterygious
+acanthopteri
+acanthopterous
+acanthopteran
+acanthopterans
+acanthopterygii
+acanthopterygian
+acanthopt
+acanthopterygians
+acanthopodious
+result for 4_gram:
+acanthopteri
+acanthopterygious
+acanthopteran
+acanthopterans
+acanthopterous
+acanthopterygii
+acanthopterygian
+acanthopterygians
+acanthopt
+acanthopts
+result for 5_gram:
+acanthopteri
+acanthopteran
+acanthopterygious
+acanthopterans
+acanthopterous
+acanthopterygii
+acanthopterygian
+acanthopterygians
+acanthopt
+acanthopts
+artifitial inteligwnse
+result for levenshtein:
+artificial intelligence
+artificial intelligences
+artificial abortions
+artificial horizons
+artificial insemination
+artificial life
+artificial persons
+artificialities
+adaptive intelligence
+artificial abortion
+result for 2_gram:
+artificial intelligence
+artificial intelligences
+artificial insemination
+artificiality
+artificiali
+artigliante
+artificial life
+artificialities
+artificializing
+artificialmente
+result for 3_gram:
+artificial intelligence
+artificial intelligences
+artificial insemination
+artificial art
+artificial anus
+artificial life
+artificial turf
+artificialities
+artificialmente
+artificial
+result for 4_gram:
+artificial intelligence
+artificial intelligences
+artificial insemination
+artificial art
+artificial anus
+artificial life
+artificial turf
+artifice
+artifici
+artifiko
+result for 5_gram:
+artificial intelligence
+artificial intelligences
+artificial insemination
+artifice
+artifici
+artifiko
+artifizi
+artifical
+artificem
+artificer
+agglumetation
+result for levenshtein:
+agglomeration
+agglomerations
+agglomeratioun
+agglutination
+argumentation
+acclimatation
+aggeneration
+aggeration
+agglomeraatio
+agglomerati
+result for 2_gram:
+agglomeration
+agglutination
+agglomerations
+agglutinatarum
+agglutinations
+agglutinata
+agitationum
+agglomerationen
+agglutinatae
+agglutinatam
+result for 3_gram:
+agglutination
+arietation
+agglutinations
+arietatione
+arietationi
+arietations
+arietationem
+arietationes
+arietationis
+arietationum
+result for 4_gram:
+arietation
+arietatione
+arietationi
+arietations
+arietationem
+arietationes
+arietationis
+arietationum
+agglutination
+agglutinations
+result for 5_gram:
+arietation
+arietatione
+arietationi
+arietations
+arietationem
+arietationes
+arietationis
+arietationum
+arietationibus
+agitation
